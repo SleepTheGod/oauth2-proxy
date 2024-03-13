@@ -50,7 +50,7 @@ require (
 	github.com/frankban/quicktest v1.10.0 // indirect
 	github.com/go-logr/logr v0.2.0 // indirect
 	github.com/golang/groupcache v0.0.0-20191227052852-215e87163ea7 // indirect
-	github.com/golang/protobuf v1.4.3 // indirect
+	github.com/golang/protobuf v1.5.0 // indirect
 	github.com/googleapis/gax-go/v2 v2.0.5 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/magiconair/properties v1.8.1 // indirect
@@ -74,7 +74,7 @@ require (
 	google.golang.org/appengine v1.6.5 // indirect
 	google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013 // indirect
 	google.golang.org/grpc v1.27.0 // indirect
-	google.golang.org/protobuf v1.26.0-rc.1 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/ini.v1 v1.51.0 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	gopkg.in/yaml.v2 v2.3.0 // indirect
